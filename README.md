@@ -1,6 +1,7 @@
 ### Olá, eu sou o Victor 👋
 ##
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=svictorzz&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svictorzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Tecnologias que uso no meu dia
 <div style="display: inline_block"><br>
