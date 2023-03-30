@@ -8,9 +8,12 @@
 🗺️ Resido em Osasco, região metropolitana da cidade de São Paulo
 ##
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=svictorzz&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svictorzz&layout=compact)](https://github.com/victorzz/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/svictorzz">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=svictorzz&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svictorzz&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 
 
