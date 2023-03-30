@@ -1,8 +1,19 @@
 ### Olá, eu sou o Victor 👋
 ##
+
+💼 Analista de Desenvolvimento de Sistemas I
+
+📚 Estudando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba (noite)
+
+🗺️ Resido em Osasco, região metropolitana da cidade de São Paulo
+##
+
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=svictorzz&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svictorzz&layout=compact)](https://github.com/victorzz/github-readme-stats)
+
+
+
 
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block"><br>
